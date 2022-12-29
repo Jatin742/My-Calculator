@@ -1,3 +1,3 @@
 My Calculator
 
-This app takes input of two integer or float/double value for height(in meter) and weight(in kilogram) from user and displays the BMI of user along with the fitness condition of person who has the respective height and weight.
+This app takes input of two arithmetic values from the user and preforms the given arithmetic operations of addition, subtraction, multiplication and division on the click of their respective button withs there signs.
